@@ -36,3 +36,11 @@ it was the second item making it not seed the data
 
 1200
 adding new view
+
+1230
+working on style
+making images folder finding image online.....
+
+1235
+found image that website says is copyrightfree and no attribution required sore use adding to home page
+downloading font off dafont and using fontsquirle to use
