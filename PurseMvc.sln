@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34031.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PurseMvc", "PurseMvc.csproj", "{4A1BC4D2-69D9-472A-BCFD-22F4031F7748}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A1BC4D2-69D9-472A-BCFD-22F4031F7748}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A1BC4D2-69D9-472A-BCFD-22F4031F7748}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A1BC4D2-69D9-472A-BCFD-22F4031F7748}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A1BC4D2-69D9-472A-BCFD-22F4031F7748}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {05F8C4A0-6E00-45C6-A657-8237A6C2A614}
+	EndGlobalSection
+EndGlobal
