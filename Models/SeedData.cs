@@ -31,17 +31,7 @@ namespace PurseMvc.Models
                         ReleaseDate = DateTime.Parse("2023-3-30"),
                         CustomerReview = 5
                     },
-
-                    new Purse
-                    {
-                        Product = "Magis Sack",
-                        Style = "Bucket Bag",
-                        Price = 2250.00M,
-                        Color = "Dusty Pink",
-                        Material = "Calf leather/Cotton/Linen",
-                        ReleaseDate = DateTime.Parse("2022-09-31"),
-                        CustomerReview = 3
-                    },
+                    
 
                     new Purse
                     {
@@ -122,7 +112,7 @@ namespace PurseMvc.Models
                         Material = "Faux fur/ Calf leather",
                         ReleaseDate = DateTime.Parse("2020-09-10"),
                         CustomerReview = 1
-                    }
+                    } 
                 );
                 context.SaveChanges();
             }

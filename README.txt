@@ -27,3 +27,12 @@ it works
 1015
 adding seeddata
 changing program.cs to seed the data
+
+1157 not seeding data
+worked once i only tried to see one
+guessing there something wrong with one of them
+
+it was the second item making it not seed the data
+
+1200
+adding new view

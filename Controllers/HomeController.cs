@@ -28,6 +28,10 @@ namespace PurseMvc.Controllers
             return View();
         }
 
+        public IActionResult About() //display the about us when clicked on and called from nav bar
+        {
+            return View();
+        }
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
         {
