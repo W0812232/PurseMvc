@@ -28,7 +28,7 @@ namespace PurseMvc.Controllers
             return View();
         }
 
-        public IActionResult About() //display the about us when clicked on and called from nav bar
+        public IActionResult About() //display the about us view when called, there is a link to this in the nav bar 
         {
             return View();
         }

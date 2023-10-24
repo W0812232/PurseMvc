@@ -7,7 +7,7 @@ namespace PurseMvc.Models
     {
         public int id { get; set; }
         public string Product { get; set; } //name of the purse
-        public string Style { get; set; } //style/type of purse such as sachel, mini, tote
+        public string Style { get; set; } //style/type of purse such as sachel, mini, bucket
 
 
         public decimal Price { get; set; } //cost

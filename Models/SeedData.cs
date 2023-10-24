@@ -15,15 +15,15 @@ namespace PurseMvc.Models
                     DbContextOptions<PurseMvcContext>>()))
             {
                 // Look for any movies.
-                if (context.Purse.Any())
+                if (context.Purse.Any()) //if there an item already in the database the items wont be seeded = delete all items before seeding the data
                 {
                     return;   // DB has been seeded
                 }
 
-                context.Purse.AddRange(
-                    new Purse
+                context.Purse.AddRange( //adds all 10 items to database
+                    new Purse 
                     {
-                        Product = "Squire Bag",
+                        Product = "Squire Bag", 
                         Style = "Shoulder Bag",
                         Price = 3700.00M,
                         Color = "Bruciato",

@@ -39,12 +39,15 @@ took out second item idk why its not seeding
 adding new view
 
 1230
+made new style sheet so nothing important in the otherone is changed
 working on style
 making images folder finding image online.....
 
 1235
+made font and images folders
 found image that website says is copyrightfree and no attribution required sore use adding to home page
-downloading font off dafont and using fontsquirle to use
+downloading font off dafont and using fontsquirle to use 
+
 
 2007
 Trying to re-add the second item to data base to have 10 items
@@ -52,3 +55,11 @@ just copied item one and filled in the info for item 2 put it at bottom
 
 2020 
 adding css  
+
+2030 putting info on site and editing views like company name, about us, and privacy
+added image to about us
+going to put the text i made for 'about us' view into word  to check for spelling mistakes
+corrected spelling mistakes
+
+2110 
+adding code comments were i forgot to
