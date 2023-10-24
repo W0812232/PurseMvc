@@ -23,3 +23,21 @@ h1 {
 
 }
 img{width:60%}
+
+p {font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+tbody {
+    background-color:lavender;
+}
+thead {
+    background-color:cornflowerblue;
+}
+tbody tr {
+    border-style:groove;
+    border-color:ghostwhite;
+}
+table {
+    
+    border:solid black 3px; /*needs to be 3px+ or is hidden by the table rows borders*/
+}

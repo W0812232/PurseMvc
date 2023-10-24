@@ -65,7 +65,7 @@ namespace PurseMvc.Models
                     },
                     new Purse
                     {
-                        Product = "Gracies Goblet with Crystals",
+                        Product = "Gracies Goblet",
                         Style = "Pouch",
                         Price = 3855.00M,
                         Color = "Black",
@@ -105,14 +105,24 @@ namespace PurseMvc.Models
                     },
                     new Purse
                     {
-                        Product = "A+ Frame Turbo",
+                        Product = "A+ Bucket",
                         Style = "Bucket Bag",
                         Price = 5600.00M,
                         Color = "Black/Brown",
                         Material = "Faux fur/ Calf leather",
                         ReleaseDate = DateTime.Parse("2020-09-10"),
                         CustomerReview = 1
-                    } 
+                    },
+                    new Purse
+                    {
+                        Product = "Magic Bucket Bag",
+                        Style = "Bucket Bag",
+                        Price = 2500.00M,
+                        Color = "Pink",
+                        Material = "Cotton/Linen/Calf leather",
+                        ReleaseDate = DateTime.Parse("2022-9-22"),
+                        CustomerReview = 3
+                    }
                 );
                 context.SaveChanges();
             }
